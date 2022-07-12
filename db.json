@@ -1,22 +1,61 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@adansuku 
+typicode
+/
+demo
+Public
+Code
+Issues
+6
+Pull requests
+322
+Actions
+Projects
+Wiki
+Security
+Insights
+demo/db.json
+@typicode
+typicode Update db.json
+Latest commit f400006 on 22 Jun 2017
+ History
+ 1 contributor
+14 lines (14 sloc)  299 Bytes
+
 {
-	"menu": {
-		"id": "file",
-		"value": "File",
-		"popup": {
-			"menuitem": [
-				{
-					"value": "New",
-					"onclick": "CreateNewDoc()"
-				},
-				{
-					"value": "Open",
-					"onclick": "OpenDoc()"
-				},
-				{
-					"value": "Close",
-					"onclick": "CloseDoc()"
-				}
-			]
+	"posts": [
+		{
+			"id": 1,
+			"title": "Post 1"
+		},
+		{
+			"id": 2,
+			"title": "Post 2"
+		},
+		{
+			"id": 3,
+			"title": "Post 3"
 		}
+	],
+	"comments": [
+		{
+			"id": 1,
+			"body": "some comment",
+			"postId": 1
+		},
+		{
+			"id": 2,
+			"body": "some comment",
+			"postId": 1
+		}
+	],
+	"profile": {
+		"name": "typicode"
 	}
 }
