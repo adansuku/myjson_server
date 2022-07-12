@@ -1,13 +1,17 @@
 {
-	"clients": [
+	"95f914e8-b670-498b-a05a-99c2dfc8ba5b": [
 		{
-			"id": "95f914e8-b670-498b-a05a-99c2dfc8ba5b"
-		},
+			"drillback_url": "http://localhost:8080/drillback_url/95f914e8-b670-498b-a05a-99c2dfc8ba5b"
+		}
+	],
+	"f94fd942-8050-4e9d-891d-a6bde81ff814": [
 		{
-			"id": "be6774fb-b500-4b5b-a5ea-6ef74c888b13"
-		},
+			"drillback_url": "http://localhost:8080/drillback_url/94fd942-8050-4e9d-891d-a6bde81ff814"
+		}
+	],
+	"be6774fb-b500-4b5b-a5ea-6ef74c888b1": [
 		{
-			"id": "f94fd942-8050-4e9d-891d-a6bde81ff814"
+			"drillback_url": "http://localhost:8080/drillback_url/be6774fb-b500-4b5b-a5ea-6ef74c888b1"
 		}
 	]
 }
