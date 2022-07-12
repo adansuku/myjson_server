@@ -1,31 +1,13 @@
 {
-	"posts": [
+	"clients": [
 		{
-			"id": 1,
-			"title": "Post 1"
+			"id": "95f914e8-b670-498b-a05a-99c2dfc8ba5b"
 		},
 		{
-			"id": 2,
-			"title": "Post 2"
+			"id": "be6774fb-b500-4b5b-a5ea-6ef74c888b13"
 		},
 		{
-			"id": 3,
-			"title": "Post 3"
+			"id": "f94fd942-8050-4e9d-891d-a6bde81ff814"
 		}
-	],
-	"comments": [
-		{
-			"id": 1,
-			"body": "some comment",
-			"postId": 1
-		},
-		{
-			"id": 2,
-			"body": "some comment",
-			"postId": 1
-		}
-	],
-	"profile": {
-		"name": "typicode"
-	}
+	]
 }
